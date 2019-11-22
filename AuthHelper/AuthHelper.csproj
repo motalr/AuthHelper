@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>motalr.AuthHelper</PackageId>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Ryan Motal</Authors>
+    <Company>Ryan Motal</Company>
+    <Product>motalr.AuthHelper</Product>
+    <Description>Simple helper for authenticating users using Token in .NET Web API</Description>
+    <Copyright>motalr 2019</Copyright>
+    <PackageTags>motal motalr oauth oauthhelper</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+</Project>

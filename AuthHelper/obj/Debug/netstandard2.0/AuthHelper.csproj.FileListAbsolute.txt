@@ -1,0 +1,9 @@
+C:\Users\JOverflowRyan\source\repos\MyNUGETS\AuthHelper\AuthHelper\bin\Debug\netstandard2.0\AuthHelper.deps.json
+C:\Users\JOverflowRyan\source\repos\MyNUGETS\AuthHelper\AuthHelper\bin\Debug\netstandard2.0\AuthHelper.dll
+C:\Users\JOverflowRyan\source\repos\MyNUGETS\AuthHelper\AuthHelper\obj\Debug\netstandard2.0\AuthHelper.csprojAssemblyReference.cache
+C:\Users\JOverflowRyan\source\repos\MyNUGETS\AuthHelper\AuthHelper\obj\Debug\netstandard2.0\AuthHelper.csproj.CoreCompileInputs.cache
+C:\Users\JOverflowRyan\source\repos\MyNUGETS\AuthHelper\AuthHelper\obj\Debug\netstandard2.0\AuthHelper.AssemblyInfoInputs.cache
+C:\Users\JOverflowRyan\source\repos\MyNUGETS\AuthHelper\AuthHelper\obj\Debug\netstandard2.0\AuthHelper.AssemblyInfo.cs
+C:\Users\JOverflowRyan\source\repos\MyNUGETS\AuthHelper\AuthHelper\bin\Debug\netstandard2.0\AuthHelper.pdb
+C:\Users\JOverflowRyan\source\repos\MyNUGETS\AuthHelper\AuthHelper\obj\Debug\netstandard2.0\AuthHelper.dll
+C:\Users\JOverflowRyan\source\repos\MyNUGETS\AuthHelper\AuthHelper\obj\Debug\netstandard2.0\AuthHelper.pdb

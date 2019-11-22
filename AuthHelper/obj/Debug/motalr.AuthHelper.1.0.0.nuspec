@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>motalr.AuthHelper</id>
+    <version>1.0.0</version>
+    <authors>Ryan Motal</authors>
+    <owners>Ryan Motal</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Simple helper for authenticating users using Token in .NET Web API</description>
+    <copyright>motalr 2019</copyright>
+    <tags>motal motalr oauth oauthhelper</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Newtonsoft.Json" version="12.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\JOverflowRyan\source\repos\MyNUGETS\AuthHelper\AuthHelper\bin\Debug\netstandard2.0\AuthHelper.dll" target="lib\netstandard2.0\AuthHelper.dll" />
+  </files>
+</package>
