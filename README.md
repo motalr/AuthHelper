@@ -1,5 +1,5 @@
 # AuthHelper
-Simple helper for authenticating users using Token in .NET Web API
+Helper for authenticating users using OAuth2 Token in .NET Web API
 
 
 
